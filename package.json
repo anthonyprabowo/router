@@ -2,7 +2,6 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://anthonyprabowo.github.io/router",
   "devDependencies": {
     "react-scripts": "^4.0.2"
   },
@@ -13,8 +12,6 @@
     "react-router-dom": "^5.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
